@@ -87,7 +87,7 @@ I am a passionate **Frontend Developer** focused on building modern, responsive,
 
 ---
 
-## 💡 Goals
+## 💡 Goals4
 
 - Build Modern & Scalable Frontend Applications  
 - Master Advanced UI/UX Design  
@@ -101,4 +101,5 @@ I am a passionate **Frontend Developer** focused on building modern, responsive,
 ---
 
 > “Designing clean interfaces. Building powerful experiences.”
+
 
