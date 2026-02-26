@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AZMATULLHAHBLOCKCHAIN
+# 👋 Hi, I'm AZMATULLHAHBL
 
 Welcome to my GitHub profile!
 
@@ -101,3 +101,4 @@ I am a passionate **Frontend Developer** focused on building modern, responsive,
 ---
 
 > “Designing clean interfaces. Building powerful experiences.”
+
